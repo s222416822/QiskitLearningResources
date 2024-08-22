@@ -5,3 +5,4 @@
 
 
 # What is VQC?
+https://qiskit-community.github.io/qiskit-machine-learning/stubs/qiskit_machine_learning.algorithms.VQC.html
